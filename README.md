@@ -6,3 +6,9 @@
 :bulb: Side-Projects: [QuickViz](http://quickviz.app), [MentionIt](http://mentionit.app), [MetaShift](http://metashift.io), [Crypto Table](http://jes.al/crypto-table/) & [more](https://jes.al/projects)
 
 :eyes: Read [my blog](https://jes.al/), follow [@jesalg](https://twitter.com/jesalg) on Twitter and checkout some of my repos :point_down:
+
+--- 
+
+### Blogs posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
