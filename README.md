@@ -9,4 +9,9 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Querying paginated API endpoints the Rails way](https://dev.to/jesalg/querying-paginated-api-endpoints-the-rails-way-56o1)
+- [GPT-What: Intro to the next big thing](https://dev.to/jesalg/gpt-what-intro-to-the-next-big-thing-1jc1)
+- [Optimizing front-end delivery with Webpack 4](https://dev.to/jesalg/optimizing-front-end-delivery-with-webpack-4-1mm4)
+- [Building an app with Stellar and IPFS](https://dev.to/jesalg/building-an-app-with-stellar-and-ipfs-5ceb)
+- [Getting Started With Express, VueJS & PostgreSQL](https://dev.to/jesalg/getting-started-with-express-vuejs--postgresql--24db)
 <!-- BLOG-POST-LIST:END -->
