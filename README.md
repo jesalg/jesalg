@@ -1,5 +1,5 @@
 ## Hey there 👋
-:sunny: I'm a Software Engineer specializing in Web Dev from Los Angeles, CA
+:sunny: I'm an Engineering Manager & Full Stack Developer specializing in Web Dev from Los Angeles, CA
 
 :office: Currently @ [BetterUp](https://github.com/BetterUp) / Previously @ [Kadenze](https://github.com/Kadenze).
 
