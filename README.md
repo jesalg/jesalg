@@ -7,9 +7,9 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [From Chaos to Clarity: The Essential Guide to Personal Knowledge Management](https://dev.to/jesalg/personal-knowledge-management-how-to-survive-in-a-world-of-information-overload-42im)
-- [How To Own Your Growth As A Software Engineer](https://dev.to/jesalg/how-to-own-your-growth-as-a-software-engineer-4473)
-- [The Art of Crafting Effective Pull Requests](https://dev.to/jesalg/the-art-of-crafting-effective-pull-requests-23fg)
-- [Techniques for Effective Software Development Effort Estimation](https://dev.to/jesalg/techniques-for-effective-software-development-effort-estimation-1k71)
-- [Merging SimpleCov results with parallel Rails specs on Semaphore CI](https://dev.to/jesalg/merging-simplecov-results-with-parallel-rails-specs-on-semaphore-ci-8f6)
+- [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
+- [From Chaos to Clarity: The Essential Guide to Personal Knowledge Management](https://jes.al/2023/01/from-chaos-to-clarity-the-essential-guide-to-personal-knowledge-management/)
+- [How To Own Your Growth As A Software Engineer](https://jes.al/2022/07/how-to-own-your-growth-as-a-software-engineer/)
+- [The Art Of Crafting Effective Pull Requests](https://jes.al/2021/08/the-art-of-crafting-effective-pull-requests)
+- [Techniques for Effective Software Development Effort Estimation](https://jes.al/2021/03/techniques-for-effective-software-development-effort-estimation)
 <!-- BLOG-POST-LIST:END -->
