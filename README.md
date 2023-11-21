@@ -1,7 +1,7 @@
 ## Hey there 👋
 :sunny: I'm an Engineering Manager & Full Stack Developer specializing in Web Dev from Los Angeles, CA
 
-:office: Currently @ [BetterUp](https://github.com/BetterUp) / Previously @ [Kadenze](https://github.com/Kadenze).
+:office: Currently @ [Thoughtful AI](https://github.com/Thoughtful-Automation) / Previously @ [BetterUp](https://github.com/BetterUp), [Kadenze](https://github.com/Kadenze).
 
 :eyes: Read [my blog](https://jes.al/), follow [@jesalg](https://twitter.com/jesalg) on Twitter and checkout some of my repos :point_down: 
 
