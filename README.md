@@ -7,9 +7,9 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Lessons In Leadership Excellence](https://jes.al/2023/12/lessons-in-leadership-excellence/)
 - [How To Make Your Ideas Stick](https://jes.al/2023/12/how-to-make-your-ideas-stick/)
 - [The Role Of A System Architect](https://jes.al/2023/08/the-role-of-a-system-architect/)
 - [How To Run Effective Sprint Planning Sessions](https://jes.al/2023/07/how-to-run-effective-sprint-planning-sessions/)
 - [Power Of Prospection](https://jes.al/2023/04/power-of-prospection/)
-- [How to hire engineering talent without the BS](https://jes.al/2023/03/how-to-hire-engineering-talent-without-the-bs/)
 <!-- BLOG-POST-LIST:END -->
