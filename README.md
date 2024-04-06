@@ -7,9 +7,9 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How To Deveop Your Skillset For The Ai Area](https://jes.al/2024/04/06/how-to-deveop-your-skillset-for-the-ai-area/)
 - [Default Open](https://jes.al/2024/02/default-open/)
 - [From Chaos to Clarity: Achieving Personal Knowledge Mastery](https://jes.al/2024/01/from-chaos-to-clarity-achieving-personal-knowledge-mastery/)
 - [Lessons In Leadership Excellence](https://jes.al/2023/12/lessons-in-leadership-excellence/)
 - [How To Make Your Ideas Stick](https://jes.al/2023/12/how-to-make-your-ideas-stick/)
-- [The Role Of A System Architect](https://jes.al/2023/08/the-role-of-a-system-architect/)
 <!-- BLOG-POST-LIST:END -->
