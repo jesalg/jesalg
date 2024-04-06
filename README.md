@@ -7,7 +7,7 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [How To Deveop Your Skillset For The Ai Area](https://jes.al/2024/04/06/how-to-deveop-your-skillset-for-the-ai-area/)
+- [How to develop your skillset for the AI era](https://jes.al/2024/04/how-to-deveop-your-skillset-for-the-ai-area/)
 - [Default Open](https://jes.al/2024/02/default-open/)
 - [From Chaos to Clarity: Achieving Personal Knowledge Mastery](https://jes.al/2024/01/from-chaos-to-clarity-achieving-personal-knowledge-mastery/)
 - [Lessons In Leadership Excellence](https://jes.al/2023/12/lessons-in-leadership-excellence/)
