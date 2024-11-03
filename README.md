@@ -7,9 +7,9 @@
 
 ## Latest blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Build an AI roadmap that actually delivers value](https://jes.al/2024/10/build-an-ai-roadmap-that-actually-delivers-value/)
 - [6 Questions To Ask Yourself Before Applying To That Job](https://jes.al/2024/07/6-questions-to-ask-yourself-before-applying-to-that-job/)
 - [4 Essential Skills For Navigating Workplace Pressures](https://jes.al/2024/05/4-essential-skills-navigating-workplace-pressures/)
 - [How to develop your skillset for the AI era](https://jes.al/2024/04/how-to-deveop-your-skillset-for-the-ai-area/)
 - [Default Open](https://jes.al/2024/02/default-open/)
-- [From Chaos to Clarity: Achieving Personal Knowledge Mastery](https://jes.al/2024/01/from-chaos-to-clarity-achieving-personal-knowledge-mastery/)
 <!-- BLOG-POST-LIST:END -->
