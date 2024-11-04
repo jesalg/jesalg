@@ -1,5 +1,5 @@
 ## Hey there 👋
-:sunny: I'm an Engineering Manager & Full Stack Developer specializing in Web Dev from Los Angeles, CA
+:sunny: I'm an Engineering Leader & Full Stack Developer from Los Angeles, CA
 
 :office: Currently @ [Thoughtful AI](https://github.com/Thoughtful-Automation) / Previously @ [BetterUp](https://github.com/BetterUp), [Kadenze](https://github.com/Kadenze).
 
