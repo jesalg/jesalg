@@ -1,7 +1,7 @@
 ## Hey there 👋
 :sunny: I'm an Engineering Leader & Full Stack Developer from Los Angeles, CA
 
-:office: Currently @ [Thoughtful AI](https://github.com/Thoughtful-Automation) / Previously @ [BetterUp](https://github.com/BetterUp), [Kadenze](https://github.com/Kadenze).
+:office: Currently @ [Cora AI](https://github.com/CoraHQ) / Previously @ [Thoughtful AI](https://github.com/Thoughtful-Automation), [BetterUp](https://github.com/BetterUp), [Kadenze](https://github.com/Kadenze).
 
 :eyes: Read [my blog](https://jes.al/), follow [@jesalg](https://twitter.com/jesalg) on Twitter and checkout some of my repos :point_down: 
 
